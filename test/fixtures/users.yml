@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  bio: MyText
+  age: 2011-05-31
+
+two:
+  name: MyString
+  bio: MyText
+  age: 2011-05-31
